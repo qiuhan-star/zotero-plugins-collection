@@ -1,1 +1,20 @@
+chartero.xpi
+A visualization plugin for Zotero library, providing statistical dashboards, annotation color bars, and reading progress tracking to enhance literature comprehension and management. 
+Zotero 文献库可视化插件，提供统计仪表盘、标注色彩条和阅读进度追踪，增强文献理解与管理。
 
+jasminum_1.0.0-20.xpi
+A Chinese literature enhancement plugin that automatically retrieves CNKI metadata, processes Chinese names, and improves metadata accuracy for Chinese academic papers.
+中文文献增强插件，自动抓取知网元数据，处理中文姓名格式，提升中文学术论文元数据准确性。
+
+otero-doi-manager-1.5.0.xpi
+Automatically fetches DOIs from CrossRef, retrieves shortDOIs, validates DOI validity, and cleans up DOI fields for better metadata management.
+自动从 CrossRef 获取 DOI，检索短 DOI，验证 DOI 有效性，清理 DOI 字段以优化元数据管理。
+
+
+zoteroif-v1.5.5.xpi
+Updates journal impact factors, JCR partitions, and CAS partitions for literature items, integrating with EasyScholar for real-time academic metrics.
+更新文献条目的期刊影响因子、JCR 分区和中科院分区，与 EasyScholar 联动获取实时学术指标。
+
+green-frog.xpi
+Works with zotero-style to display journal impact factors and partitions, resolving display issues of academic metrics in Zotero.
+配合 zotero-style 显示期刊影响因子和分区，解决 Zotero 中学术指标显示问题。
